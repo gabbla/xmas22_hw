@@ -102,6 +102,9 @@
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/4ee983c8-61de-4e17-8cfb-7651a3c4b913"
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
+    (path "/322c24fc-8d28-4c99-8860-43e448ea1070/ecba0f2b-88d1-47c6-8aaf-b7b4cc333d73"
+      (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
+    )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/92fe2177-86dd-4961-b824-be4a1efe78d7"
       (reference "BT1") (unit 1) (value "CR1620") (footprint "xmas22:BH57A-5")
     )
@@ -222,8 +225,8 @@
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/1e356fb1-f1b4-4632-bd90-19a88ef3d799"
       (reference "R17") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/322c24fc-8d28-4c99-8860-43e448ea1070/6ed48364-2c61-4c4d-ba66-4b8dd5677e7a"
-      (reference "SW1") (unit 1) (value "SW_MEC_5E") (footprint "Button_Switch_SMD:SW_Push_1P1T_NO_6x6mm_H9.5mm")
+    (path "/322c24fc-8d28-4c99-8860-43e448ea1070/f2d9587d-04ba-4344-a138-16ff39eff895"
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/47e04dd5-a037-4815-a961-d2bbc1e8e184"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
