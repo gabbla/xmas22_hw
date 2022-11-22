@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "pic16f18044-i_ml")(type "KiCad")(uri "${KIPRJMOD}/libs/pic16f18044/pic16f18044-i_ml.kicad_sym")(options "")(descr ""))
+  (lib (name "BAT-HLD-001")(type "Legacy")(uri "${KIPRJMOD}/libs/BAT-HLD-001/BAT-HLD-001.lib")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "conn")(type "KiCad")(uri "${KIPRJMOD}/libs/conn.pretty")(options "")(descr ""))
+  (lib (name "BAT-HLD-001")(type "KiCad")(uri "${KIPRJMOD}/libs/BAT-HLD-001")(options "")(descr ""))
+  (lib (name "edge_cuts")(type "KiCad")(uri "${KIPRJMOD}/edge_cuts")(options "")(descr ""))
+  (lib (name "xmas22")(type "KiCad")(uri "${KIPRJMOD}/libs/xmas22")(options "")(descr ""))
+)

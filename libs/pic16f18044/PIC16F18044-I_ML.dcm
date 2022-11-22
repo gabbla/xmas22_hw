@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PIC16F18044-I_ML
+D 8-bit Microcontrollers - MCU 7KB Flash, 128EE, 512B RAM, 10b ADC, PWM, CCP, HLT, WDT, PPS, EUSART, SPI/I2C
+K
+F https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC16F18015-25-44-45-Microcontroller-Data-Sheet-40002340B.pdf
+$ENDCMP
+#
+#End Doc Library
