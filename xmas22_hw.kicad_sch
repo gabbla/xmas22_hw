@@ -226,7 +226,7 @@
       (reference "R17") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/f2d9587d-04ba-4344-a138-16ff39eff895"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-3000P")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/47e04dd5-a037-4815-a961-d2bbc1e8e184"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
