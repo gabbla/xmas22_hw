@@ -106,7 +106,7 @@
       (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/92fe2177-86dd-4961-b824-be4a1efe78d7"
-      (reference "BT1") (unit 1) (value "CR1620") (footprint "xmas22:BH57A-5")
+      (reference "BT1") (unit 1) (value "CR2032") (footprint "BAT-HLD-001:BATHLD001")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/6b59baa5-06b0-46e2-a290-3d3c84cad97f"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -146,9 +146,6 @@
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/212ecac4-0bd9-4c6e-aa5c-64bfe1ea4966"
       (reference "D12") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
-    )
-    (path "/322c24fc-8d28-4c99-8860-43e448ea1070/d705e4a3-a9fa-4be9-ba8c-86dde5592a10"
-      (reference "D13") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/a6a4c2a2-0f23-432d-abfe-b9d0c781f027"
       (reference "D14") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
@@ -213,9 +210,6 @@
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/e0686a99-fd56-4c20-992c-2664ece10513"
       (reference "R13") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
-    (path "/322c24fc-8d28-4c99-8860-43e448ea1070/f6219cec-d256-48bb-a028-1a7c2a5f7baa"
-      (reference "R14") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
-    )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/f65fe70d-0ead-4277-ad80-80e5eb4c0182"
       (reference "R15") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
@@ -226,7 +220,7 @@
       (reference "R17") (unit 1) (value "R_Small") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/f2d9587d-04ba-4344-a138-16ff39eff895"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-3000P")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_EVQP0")
     )
     (path "/322c24fc-8d28-4c99-8860-43e448ea1070/47e04dd5-a037-4815-a961-d2bbc1e8e184"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D1.5mm")
